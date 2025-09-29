@@ -1,0 +1,20 @@
+{
+    "name": "ahmed-elnemr/laravel-api-formdata-support",
+    "description": "Provides support for handling and parsing form-data in PUT and PATCH requests for Laravel APIs",
+    "type": "library",
+    "require": {
+        "illuminate/support": ">=9.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AhmedElnemr\\LaravelApiFormdataSupport\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Elnemr",
+            "email": "ahmedelnemr064@gmail.com"
+        }
+    ]
+}
